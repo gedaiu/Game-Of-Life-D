@@ -1,0 +1,11 @@
+{
+	"name": "Game-Of-Life-D",
+	"description": "Conway's game of life D implementation.",
+	"copyright": "Copyright © 2015, Szabo Bogdan",
+	"authors": ["Szabo Bogdan"],
+	"dependencies": {
+		"dunit": ">=1.0.0"
+	},
+
+	"targetType": "library"
+}
