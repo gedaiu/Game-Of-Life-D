@@ -1,3 +1,5 @@
+module gameoflife.game;
+
 import std.stdio;
 import std.math;
 import dunit.toolkit;
